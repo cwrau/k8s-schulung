@@ -23,3 +23,6 @@ spec:
         main:
           url: https://github.com/cwrau/k8s-schulung
           branch: main
+    monitoring:
+      tracing:
+        enabled: true
